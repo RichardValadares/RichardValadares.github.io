@@ -1,0 +1,884 @@
+1.	Introdução
+1.1.	Propósito do Projeto
+O propósito do projeto Cyberjobs é desenvolver uma plataforma digital segura, intuitiva e eficaz que conecte freelancers qualificados a clientes em busca de uma gama variada de serviços. Esta plataforma é projetada para abranger diversas áreas de especialização, incluindo, mas não se limitando a, desenvolvimento web, design gráfico, redação e revisão de conteúdo, marketing digital, programação e mais.
+
+Cyberjobs tem como meta eliminar as barreiras geográficas, permitindo que freelancers de todo o mundo acessem oportunidades de trabalho e que clientes encontrem os profissionais mais adequados para suas necessidades, independentemente de sua localização.
+
+Além disso, o Cyberjobs também visa fornecer um ambiente que promova o trabalho justo e ético. Com mecanismos transparentes e seguros para a apresentação de propostas, negociação, execução do trabalho e pagamento, a plataforma aspira garantir a satisfação tanto dos freelancers quanto dos clientes.
+
+Finalmente, o Cyberjobs está comprometido em resolver disputas de forma eficiente e justa através de um sistema de resolução de conflitos, proporcionando a ambas as partes a confiança e a segurança necessárias para conduzir seus negócios.
+
+Em resumo, o propósito do Cyberjobs é criar uma plataforma confiável que facilite a conexão entre freelancers e clientes, promovendo oportunidades de trabalho, transações seguras e uma resolução justa de disputas.
+1.2.	Objetivos
+O projeto Cyberjobs tem como principal objetivo criar uma plataforma de intermediação entre freelancers e clientes, permitindo a criação, negociação e gestão de projetos de trabalho autônomo em um único local seguro e fácil de usar.
+1.2.1.	 Conexão de Talentos e Clientes: Permitir que freelancers de várias habilidades e experiências se conectem com clientes de todos os tamanhos, desde indivíduos que procuram pequenos serviços até empresas que procuram terceirizar projetos maiores.
+1.2.2.	 Interface Intuitiva e Fácil de Usar: A plataforma deve ser intuitiva e fácil de usar para todas as partes interessadas, seja um freelancer procurando por um trabalho ou um cliente postando um novo projeto.
+1.2.3.	 Transações Seguras: Oferecer um sistema de pagamento seguro que garanta a segurança das transações, mantendo os fundos do projeto em um sistema de depósito em garantia até a conclusão bem-sucedida do projeto.
+1.2.4.	 Resolução de Disputas: Disponibilizar um sistema de resolução de disputas imparcial que possa intervir em casos de desacordo ou conflito entre o cliente e o freelancer.
+1.2.5.	 Avaliação e Feedback: Fornecer um sistema de avaliação e feedback que permita que freelancers e clientes avaliem uns aos outros após a conclusão de um projeto, ajudando a manter a qualidade e a confiabilidade dentro da plataforma.
+1.2.6.	 Crescimento e Sustentabilidade: Garantir que a plataforma seja escalável para suportar o crescimento de usuários e projetos ao longo do tempo, mantendo a qualidade do serviço e a experiência do usuário.
+1.3.	Escopo
+O escopo do projeto Cyberjobs consiste em desenvolver uma plataforma online de intermediação entre freelancers e clientes. O objetivo é criar um ambiente seguro e eficiente onde os freelancers possam encontrar trabalhos que correspondam às suas habilidades e experiência, enquanto os clientes podem encontrar profissionais qualificados para executar seus projetos.
+
+As principais funções e características do Cyberjobs incluirão:
+
+1.3.1.	 Registro de Usuários: A plataforma permitirá que freelancers e clientes se registrem e criem perfis detalhados. Os freelancers serão capazes de listar suas habilidades, experiências, portfólio e definir suas tarifas. Os clientes poderão postar detalhes do projeto, prazo e orçamento.
+1.3.2.	 Sistema de Propostas: Os freelancers poderão enviar propostas em resposta aos projetos postados pelos clientes. Os clientes, então, poderão analisar essas propostas, comunicar-se com os freelancers e finalmente selecionar o freelancer mais adequado para o trabalho.
+1.3.3.	 Sistema de Pagamento: A plataforma deve ter um sistema de pagamento seguro. Os pagamentos serão mantidos em um sistema de custódia (escrow) até que o trabalho seja concluído e o cliente esteja satisfeito.
+1.3.4.	 Sistema de Classificação e Avaliação: Após a conclusão de um projeto, clientes e freelancers poderão avaliar e comentar sobre a experiência de trabalho juntos. Isso ajudará a manter um nível de qualidade e permitirá que ambos construam uma reputação na plataforma.
+1.3.5.	 Sistema de Resolução de Disputas: Em caso de qualquer disputa entre o cliente e o freelancer, a plataforma terá um processo para lidar com essas situações e chegar a uma resolução justa.
+1.3.6.	 Interface User-friendly: A plataforma será projetada para ser intuitiva e fácil de usar, com suporte ao cliente disponível para ajudar com qualquer problema ou dúvida.
+
+2.	Descrição do Site
+2.1.	Usuários
+O Cyberjobs será projetado para atender dois principais tipos de usuários: Freelancers e Clientes. Além disso, haverá uma categoria de Administradores para gerenciamento do site.
+
+2.1.1.	 Freelancers: Os freelancers são profissionais autônomos que buscam trabalho e projetos temporários. Eles podem se cadastrar gratuitamente no site, criar um perfil detalhado e começar a buscar trabalhos que se adequem às suas habilidades.
+
+Características do perfil do Freelancer:
+•	Informações de contato
+•	Currículo e histórico de trabalho
+•	Habilidades e especialidades
+•	Portfólio de trabalhos anteriores
+•	Classificações e avaliações de clientes anteriores
+•	Taxas/honorários
+
+2.1.2.	 Clientes: Os clientes são indivíduos ou empresas que precisam de serviços freelancer. Eles podem postar trabalhos detalhados, incluindo requisitos, prazo e orçamento. Eles podem então receber propostas de freelancers, negociar detalhes, e finalmente contratar um freelancer.
+
+Características do perfil do Cliente:
+•	Informações de contato
+•	Descrição e perfil da empresa
+•	Histórico de trabalhos postados
+•	Classificações e avaliações de freelancers anteriores
+
+2.1.3.	 Administradores: Os administradores são responsáveis pelo gerenciamento e supervisão do site. Eles podem mediar disputas, gerenciar usuários, monitorar a atividade do site e tomar medidas para garantir que o site seja seguro, eficaz e benéfico para todos os usuários.
+
+Características do perfil do Administrador:
+•	Informações de contato
+•	Funções e responsabilidades
+•	Acesso para moderação do site
+
+Cada tipo de usuário terá interfaces e funcionalidades personalizadas com base em suas necessidades e funções no site. Isso incluirá ferramentas para comunicação, gerenciamento de projetos, avaliações e feedback, e gestão financeira.
+
+O Cyberjobs também terá um processo de verificação para garantir que os usuários sejam legítimos e confiáveis. Isso será especialmente importante para freelancers, para confirmar suas habilidades e experiências, e para clientes, para confirmar sua capacidade de pagar pelos serviços.
+
+2.2.	Funcionalidades
+2.2.1.	Funcionalidades para Freelancers
+2.2.1.1.	Cadastro e Criação de Perfil
+Essa funcionalidade permite que os freelancers criem um perfil no Cyberjobs. O perfil é uma parte crucial do processo, pois fornece informações relevantes que permitem aos clientes avaliar se um freelancer é adequado para um projeto específico. Aqui estão as principais funcionalidades dessa seção:
+
+•	Cadastro: O freelancer precisa fornecer um e-mail válido e criar uma senha para se registrar. A confirmação do e-mail será necessária para validar a conta.
+•	Criação de Perfil: Uma vez registrado, o freelancer pode preencher seu perfil com informações relevantes sobre suas habilidades, experiências e preferências de trabalho. Isso inclui um resumo do perfil, detalhes do trabalho, habilidades, educação, idiomas falados e uma seção para o portfólio.
+•	Portfólio: O freelancer pode carregar exemplos de seu trabalho. Essa funcionalidade deve suportar vários formatos de arquivos, como PDF, JPG, PNG, etc.
+•	Preferências de trabalho: O freelancer pode selecionar suas preferências de trabalho, como disponibilidade para trabalhar em tempo integral ou parcial, horários preferenciais, etc.
+•	Configurações de Conta: A seção de configurações permite que o freelancer gerencie as informações de sua conta, como e-mail, senha, etc.
+
+Dados para cadastro e criação de perfil do freelancer:
+
+1. E-mail: usado para registro e comunicação.
+2. Senha: para acesso seguro à conta.
+3. Nome Completo: nome real do freelancer para transações formais.
+4. Nome de Usuário: usado para a identificação no site.
+5. Foto do Perfil: para personalizar o perfil e torná-lo mais pessoal.
+6. Resumo do Perfil: uma breve descrição sobre o freelancer e suas habilidades.
+7. Habilidades: uma lista de habilidades específicas que o freelancer possui.
+8. Experiência de Trabalho: histórico de trabalhos anteriores e empresas.
+9. Educação: detalhes sobre a formação educacional do freelancer.
+10. Idiomas: idiomas que o freelancer fala fluentemente.
+11. Portfólio: espaço para o freelancer carregar exemplos de seu trabalho.
+12. Preferências de Trabalho: disponibilidade para trabalhar, horários preferenciais, etc.
+13. Taxas/honorários: valor cobrado pelo freelancer por seu trabalho.
+
+Lembrando que esses dados devem ser verificados e validados durante o processo de cadastro para garantir a legitimidade do perfil. Além disso, é importante oferecer ao freelancer a opção de tornar certas informações privadas, se desejarem.
+
+2.2.1.2.	Busca de Trabalhos
+Esta é uma funcionalidade crucial para os freelancers, pois será a principal forma de eles encontrarem oportunidades de trabalho. Aqui estão as funcionalidades detalhadas:
+
+1. Busca Avançada: Freelancers poderão pesquisar por trabalhos usando palavras-chave, categorias, duração do projeto, orçamento do projeto, entre outros critérios para encontrar trabalhos que se adequem às suas habilidades e disponibilidade.
+2. Filtros: Freelancers poderão filtrar os resultados da busca por vários critérios, incluindo data de postagem, tipo de trabalho (por exemplo, projeto completo, por hora, etc.), nível de experiência requerido, localização (se relevante) e avaliação do cliente.
+3. Ordenação: Freelancers poderão ordenar os resultados da busca por critérios como data de postagem, orçamento, relevância, etc.
+
+4. Visualização de Trabalhos: Freelancers poderão clicar nos trabalhos para visualizar mais detalhes, incluindo a descrição completa do trabalho, requisitos, orçamento, prazo, informações sobre o cliente e muito mais.
+5. Salvamento de Trabalhos: Freelancers poderão salvar trabalhos de interesse para visualização ou candidatura posterior.
+6. Notificações: Freelancers poderão configurar alertas para serem notificados quando novos trabalhos que correspondem aos seus critérios de busca forem postados.
+
+Os principais dados para a Busca de Trabalhos incluiriam:
+
+1. Título do Trabalho: Uma descrição curta do trabalho a ser feito.
+2. Descrição do Trabalho: Detalhes do trabalho, incluindo o que precisa ser feito, requisitos, entregáveis, etc.
+3. Categoria do Trabalho: A categoria ou indústria a qual o trabalho pertence, por exemplo, design gráfico, desenvolvimento web, etc.
+4. Orçamento do Trabalho: O orçamento estimado pelo cliente para o trabalho.
+5. Duração do Projeto: A duração esperada do projeto, seja uma data de término específica ou um intervalo de tempo estimado.
+6. Tipo de Trabalho: Se o trabalho é um projeto completo, um trabalho por hora, um trabalho recorrente, etc.
+7. Nível de Experiência Requerido: O nível de experiência ou habilidade requerido para o trabalho, por exemplo, iniciante, intermediário, especialista, etc.
+8. Localização: A localização do cliente, que pode ser relevante para trabalhos que exigem presença física.
+9. Avaliação do Cliente: A avaliação média do cliente por freelancers em trabalhos anteriores.
+10. Data de Postagem: A data e a hora em que o trabalho foi postado.
+
+Espero que isso tenha sido útil! Se você tiver mais perguntas ou se quiser explorar um tópico diferente, fique à vontade para me dizer.
+2.2.1.3.	Envio de Propostas
+Essa funcionalidade permite que os freelancers enviem propostas para trabalhos postados pelos clientes no Cyberjobs. Após a busca e seleção de trabalhos de interesse, os freelancers poderão submeter propostas detalhadas que convencerão os clientes de sua capacidade de realizar o trabalho da melhor maneira possível.
+
+Aqui estão as principais funcionalidades da seção de envio de propostas:
+
+1. Criação de proposta: Permite aos freelancers criar uma nova proposta para um trabalho. A proposta pode ser personalizada para cada trabalho, permitindo que os freelancers demonstrem compreensão do projeto e expliquem como suas habilidades e experiência são adequadas para o trabalho.
+2. Edição de proposta: Depois que a proposta é criada, os freelancers têm a opção de editá-la até o momento em que é enviada. Isso permite ajustar a proposta com base em novas informações ou mudanças na estratégia.
+3. Envio de proposta: Uma vez que o freelancer esteja satisfeito com a proposta, ele pode submetê-la para o cliente. O cliente receberá uma notificação de uma nova proposta e poderá revisá-la.
+4. Acompanhamento de proposta: Após o envio, os freelancers podem acompanhar o status de suas propostas. Eles poderão ver se a proposta foi lida e qual é o feedback do cliente.
+
+Agora, vamos ao formato de uma proposta. Aqui estão os principais dados a serem preenchidos na proposta:
+
+1. Título da Proposta: Uma breve linha descrevendo o que a proposta cobre.
+2. Descrição da Proposta: Detalhes completos de como o freelancer pretende abordar o trabalho, incluindo as etapas do projeto, soluções propostas e qualquer outro detalhe relevante.
+3. Experiência Relevante: O freelancer pode listar aqui experiência de trabalho ou projetos anteriores que são relevantes para o trabalho em questão.
+4. Cronograma: Uma estimativa de quanto tempo levará para concluir o trabalho.
+5. Orçamento: Uma estimativa do custo total do trabalho. Isso pode ser dividido em custos de trabalho, custos de material, etc.
+6. Por que eu?: Uma seção onde o freelancer pode se vender para o cliente, destacando por que ele é a melhor escolha para o trabalho.
+7. Anexos: Uma seção para adicionar quaisquer documentos de apoio, como portfólios, exemplos de trabalho anteriores, certificados de competência, etc.
+
+Isso cobre a funcionalidade de Envio de Propostas para Freelancers. A proposta é essencialmente a "venda" do freelancer ao cliente, e é importante que ela seja bem feita e convincente.
+2.2.1.4.	Negociação
+A funcionalidade de negociação é essencial para permitir que freelancers e clientes concordem com termos de trabalho que sejam mutuamente benéficos. Isso deve ser um processo transparente e fácil de seguir para ambos os lados.
+
+Funcionalidades da Negociação
+
+1. Propostas de Projetos: Os freelancers poderão enviar propostas detalhadas para os projetos postados pelos clientes. As propostas incluirão detalhes sobre como o freelancer planeja concluir o projeto, qualquer requisito ou solicitação especial, e uma cotação de preço.
+2. Discussão e ajuste de detalhes: Ambos, freelancer e cliente, devem ter a capacidade de discutir detalhes do projeto, prazo e preço, ajustando conforme necessário até chegarem a um acordo.
+
+3. Aceitação de Propostas: Após a discussão e ajuste, o cliente pode aceitar a proposta de um freelancer, sinalizando o início do projeto. Nesse ponto, os detalhes do projeto não podem mais ser alterados a menos que ambas as partes concordem.
+4. Documentação do Acordo: Todos os detalhes do acordo, incluindo escopo do projeto, prazo e preço, devem ser claramente documentados e disponíveis para ambos, freelancer e cliente, para referência durante a duração do projeto.
+
+Aqui estão os principais dados a serem preenchidos durante a fase de negociação:
+
+1. Detalhes do Projeto: A descrição completa do trabalho a ser realizado, incluindo qualquer requisito específico ou particularidade relevante ao projeto.
+2. Prazo de Execução: O prazo acordado para a entrega do projeto. 
+3. Preço: O valor acordado para a realização do trabalho. Isso pode ser um valor fixo para todo o projeto ou uma taxa por hora, dependendo da natureza do trabalho.
+4. Requisitos Especiais: Quaisquer requisitos ou solicitações especiais que o freelancer ou o cliente tenha, como software específico necessário, reuniões de atualização de progresso, etc.
+5. Termos e Condições: Todos os termos e condições acordados durante a negociação. Isso pode incluir coisas como política de revisões, expectativas de comunicação, etc.
+
+Estes são os pontos principais a serem considerados na funcionalidade de negociação. No entanto, cada projeto pode ter suas particularidades, e é importante que a plataforma seja flexível o suficiente para acomodar as necessidades variadas de seus usuários.
+2.2.1.5.	Gerenciamento de Projetos
+Esta funcionalidade é crucial para permitir que os freelancers gerenciem eficientemente seus projetos. Ela se estende desde a aceitação de um projeto até a sua conclusão, garantindo que todas as partes estejam em sintonia.
+2.2.1.5.1.	Aceitação do Projeto
+Uma vez que uma proposta é aceita por um cliente, o freelancer poderá aceitar o projeto. Aqui, é importante que haja uma confirmação por parte do freelancer, garantindo que ele esteja totalmente ciente e de acordo com as demandas do projeto.
+2.2.1.5.2.	Planejamento do Projeto
+O freelancer poderá dividir o projeto em várias tarefas menores e definir prazos para cada uma delas. Isto permitirá uma melhor organização do trabalho e a garantia de que o projeto será concluído no prazo.
+2.2.1.5.3.	Comunicação com o Cliente
+Um sistema de mensagens integrado permitirá uma comunicação eficiente entre o freelancer e o cliente. Este sistema pode incluir a capacidade de compartilhar arquivos, atualizações de status do projeto, solicitar esclarecimentos e dar/receber feedback.
+
+2.2.1.5.4.	Acompanhamento do Progresso do Projeto
+Um sistema de rastreamento permitirá ao freelancer monitorar o progresso do projeto. Isso pode incluir uma visão geral do status das tarefas, marcos atingidos e o tempo restante para a conclusão.
+2.2.1.5.5.	Entrega do Projeto
+Quando o projeto estiver concluído, o freelancer poderá enviar o trabalho finalizado para o cliente através da plataforma. Neste ponto, a plataforma pode solicitar a aprovação do cliente e liberar o pagamento para o freelancer.
+
+Aqui estão os principais dados a serem preenchidos:
+
+1. Nome do Projeto: Nome ou título dado ao projeto.
+2. Descrição do Projeto: Detalhes do que o projeto envolve e os resultados esperados.
+3. Tarefas: Lista de tarefas menores que compõem o projeto.
+4. Prazos: Datas ou prazos para cada tarefa e para a conclusão geral do projeto.
+5. Status das Tarefas: Indicador de se uma tarefa está concluída, em andamento ou pendente.
+6. Comunicações: Registro de todas as mensagens e arquivos compartilhados entre o freelancer e o cliente.
+7. Arquivos do Projeto: Todos os arquivos relacionados ao projeto, incluindo entregas intermediárias e finais.
+8. Aprovação do Cliente: Registro da aprovação do cliente na conclusão do projeto.
+9. Pagamento: Detalhes do pagamento, incluindo quanto foi pago, quando e por qual método. 
+
+2.2.1.6.	Recebimento de Pagamentos
+O processo de recebimento de pagamentos é uma funcionalidade crucial para os freelancers. Esta funcionalidade irá permitir que os freelancers recebam pagamentos de maneira segura e eficiente por seus serviços. Para oferecer uma experiência de pagamento segura e confiável, podemos considerar a integração com serviços de pagamento confiáveis como PayPal, Stripe, e outros sistemas locais relevantes.
+
+Funcionalidades de Recebimento de Pagamentos:
+
+1. Solicitação de Pagamento: Após a conclusão do trabalho, os freelancers poderão solicitar o pagamento. Esta funcionalidade irá gerar uma notificação para o cliente, que pode então liberar o pagamento.
+2. Pagamento Escrow (Depósito em Garantia): Esta é uma funcionalidade de segurança onde o dinheiro do cliente é mantido "em custódia" até que o trabalho seja concluído a satisfação. Isso dá segurança ao freelancer de que o dinheiro está disponível e será pago após a conclusão do trabalho.
+3. Histórico de Pagamentos: Os freelancers podem acessar um histórico detalhado de todos os pagamentos recebidos, pendentes e liberados. 
+4. Métodos de Pagamento: O freelancer pode selecionar o método de pagamento preferido, como transferência bancária, PayPal, etc. Eles podem adicionar ou alterar os detalhes da conta de pagamento a qualquer momento.
+5. Notificações de Pagamento: O sistema irá gerar automaticamente notificações por e-mail ou no site quando um pagamento for recebido.
+
+Principais Dados para Recebimento de Pagamentos:
+
+1. ID do Usuário: Identificação única do freelancer no sistema.
+2. Nome Completo: Nome completo do freelancer para identificação.
+3. Método de Pagamento: Detalhes do método de pagamento escolhido pelo freelancer (ex: número da conta bancária, endereço de e-mail do PayPal, etc.).
+4. Valor a ser Pago: O montante que o cliente deve pagar ao freelancer.
+5. Estado do Pagamento: Mostra se o pagamento está pendente, em progresso, concluído ou em disputa.
+6. ID do Projeto/Trabalho: Identificação única do projeto ou trabalho associado ao pagamento.
+7. Data/Hora da Solicitação: Quando a solicitação de pagamento foi feita.
+8. Data/Hora do Pagamento: Quando o pagamento foi efetuado ou recebido.
+
+Esse conjunto de funcionalidades e dados deve fornecer uma estrutura robusta e segura para o processo de recebimento de pagamentos dos freelancers no Cyberjobs.
+2.2.1.7.	Avaliação dos Clientes
+A funcionalidade de avaliação dos clientes permitirá que os freelancers forneçam feedback sobre suas experiências de trabalho com clientes específicos. Esta é uma característica crucial para criar um ambiente de trabalho transparente e responsável, permitindo que outros freelancers tomem decisões informadas sobre com quem desejam trabalhar.
+
+Funcionalidades
+
+Pontuação de Classificação: Os freelancers poderão dar uma classificação geral ao cliente após a conclusão de um projeto, geralmente em uma escala de 1 a 5 estrelas.
+Comentários: Além de fornecer uma pontuação de classificação, os freelancers também terão a opção de escrever comentários sobre suas experiências, destacando pontos positivos ou negativos do relacionamento de trabalho.
+Revisão e Moderação: Todas as avaliações serão moderadas de acordo com as diretrizes do site para garantir que sejam justas, profissionais e respeitosas. Os administradores do site terão a capacidade de excluir ou editar comentários que não estejam de acordo com essas diretrizes.
+
+Principais Dados para Avaliação do Cliente
+
+1. ID do Cliente: Identificador único do cliente que está sendo avaliado.
+2. ID do Projeto: Identificador único do projeto associado à avaliação.
+3. ID do Freelancer: Identificador único do freelancer que está fornecendo a avaliação.
+4. Pontuação de Classificação: A pontuação de 1 a 5 estrelas fornecida pelo freelancer.
+5. Comentário: O comentário escrito fornecido pelo freelancer.
+6. Data da Avaliação: A data e a hora em que a avaliação foi submetida.
+7. Status da Avaliação: Indica se a avaliação está visível para outros usuários ou se está sendo revisada pela moderação.
+
+2.2.2.	Funcionalidades para Clientes
+2.2.2.1.	Cadastro e Criação de Perfil
+O processo de cadastro e criação de perfil é fundamental para que os clientes possam começar a postar trabalhos e interagir com os freelancers. Essa funcionalidade permitirá que os clientes forneçam informações importantes sobre eles mesmos e sua organização, o que ajudará os freelancers a entender melhor com quem estão interagindo e decidir se desejam trabalhar para esse cliente.
+
+Funcionalidades de Cadastro e Criação de Perfil:
+
+1. Criação de Conta: O cliente poderá criar uma conta fornecendo um endereço de e-mail válido e criando uma senha segura. Alternativamente, pode haver opções para se inscrever usando contas de redes sociais ou Google.
+2. Verificação de E-mail: Depois que o cliente criar uma conta, um e-mail de verificação será enviado para confirmar a autenticidade do endereço de e-mail fornecido.
+3. Preenchimento do Perfil: Após a criação e verificação da conta, o cliente será solicitado a preencher seu perfil. Isso pode incluir várias informações, como detalhes de contato, informações sobre a organização, histórico de trabalhos anteriores etc.
+4. Upload de Foto/Logotipo: O cliente poderá fazer upload de uma foto de perfil ou logotipo de sua organização para tornar seu perfil mais atraente e reconhecível.
+5. Configurações de Privacidade e Segurança: O cliente poderá configurar suas preferências de privacidade e segurança, incluindo quem pode ver seu perfil, suas postagens de trabalho e informações de contato.
+
+Principais Dados a Serem Preenchidos pelo Cliente:
+
+1. Nome: Nome completo do cliente ou nome da empresa/organização.
+2. Endereço de E-mail: Para comunicação e notificações.
+3. Número de Telefone: Para contato direto e verificação.
+4. Foto/Logotipo: Para reconhecimento visual.
+5. Descrição da Empresa/Organização: Breve resumo da empresa ou do cliente individual, incluindo a área de atuação, história e objetivos.
+6. Website/Redes Sociais: Links para o website oficial ou perfis de redes sociais da empresa/organização, se disponíveis.
+7. Endereço Físico: Para verificação e transações físicas, se necessário.
+8. Preferências de Pagamento: Métodos de pagamento preferidos para pagamento aos freelancers.
+
+Esses dados permitirão uma comunicação eficaz entre o cliente e os freelancers e também ajudarão na construção de um ambiente de trabalho confiável e seguro dentro do site.
+2.2.2.2.	Postagem de Trabalhos
+Essa funcionalidade permite que os clientes postem detalhes de projetos ou trabalhos que desejam ter concluídos por freelancers. Para tornar a postagem o mais informativa e atrativa possível, será necessário preencher os seguintes dados:
+
+1. Título do Trabalho: Este campo deve conter um resumo curto e claro do projeto. Deve ser descritivo e informativo, de modo que freelancers possam entender rapidamente do que se trata o trabalho.
+2. Descrição do Trabalho: Este é um campo de texto mais longo, onde o cliente pode entrar em detalhes sobre o trabalho, especificando o que é necessário, os resultados esperados e quaisquer requisitos ou especificidades.
+3. Habilidades Necessárias: Este campo permite que os clientes indiquem quais habilidades ou experiência são necessárias para o trabalho. Os clientes podem selecionar de uma lista pré-definida ou adicionar suas próprias habilidades.
+4. Orçamento: Aqui, o cliente indica o orçamento para o projeto. Isso pode ser uma quantia fixa ou uma faixa de preço. Também pode ser possível optar por não divulgar o orçamento e discutir isso diretamente com os freelancers.
+5. Prazo: Este campo permite que os clientes especifiquem quando precisam que o trabalho seja concluído. Isso pode ser uma data específica ou um período de tempo (como "em duas semanas").
+6. Arquivos Anexos: Uma funcionalidade para upload de documentos que fornecem mais detalhes sobre o trabalho, como um escopo de projeto, esboços, especificações técnicas, etc.
+7. Categoria de Trabalho: O cliente deve selecionar a categoria que melhor descreve o trabalho (por exemplo, design gráfico, programação, redação, etc.). Isso facilitará a busca de freelancers com habilidades específicas.
+8. Tipo de Trabalho: Este campo permite que os clientes indiquem se o trabalho é um projeto único, uma posição de longo prazo ou uma posição em tempo integral.
+
+Ao fornecer todos esses detalhes, os clientes podem garantir que atrairão freelancers qualificados e interessados que estão aptos a realizar o trabalho conforme as especificações.
+2.2.2.3.	Busca e Seleção de Freelancers
+Esta funcionalidade permitirá que os clientes busquem freelancers específicos de acordo com suas necessidades de projeto. Ela consiste nas seguintes subfuncionalidades:
+
+1. Pesquisa de Freelancers: O sistema deverá permitir que os clientes pesquisem freelancers por nome, habilidade, taxa/honorários, classificação, entre outros critérios. 
+2. Filtros de Pesquisa Avançados: Para ajudar os clientes a encontrar o freelancer perfeito, eles terão a capacidade de aplicar filtros como localização, experiência, disponibilidade, linguagens de trabalho, entre outros.
+3. Visualização de Perfis de Freelancers: Após a busca, os clientes poderão visualizar perfis completos de freelancers, que incluem suas informações de contato, histórico de trabalho, portfólio, avaliações e muito mais.
+4. Seleção de Freelancers: Depois de encontrar um freelancer adequado, os clientes podem selecioná-lo para uma proposta de projeto.
+
+Os principais dados a serem preenchidos pelos clientes durante a Busca e Seleção de Freelancers podem incluir:
+
+1. Critérios de Busca: Este será um campo de entrada onde o cliente pode digitar o que está procurando, como uma habilidade específica, um tipo de trabalho, etc.
+2. Filtros de Busca: Estes serão campos pré-definidos onde os clientes podem filtrar sua pesquisa por vários critérios, como taxa/honorários, localização, classificação, etc.
+3. Informações de Contato do Freelancer: Após encontrar um freelancer adequado, os clientes precisarão preencher seus detalhes de contato para se comunicar e discutir detalhes do projeto.
+4. Detalhes do Projeto: Antes de selecionar um freelancer, os clientes podem ter que fornecer detalhes sobre o projeto que estão propondo, incluindo requisitos, prazo, orçamento, etc.
+
+2.2.2.4.	Negociação
+A negociação é uma parte crucial do processo entre clientes e freelancers. Uma vez que um freelancer tenha enviado uma proposta para um trabalho, o cliente terá a capacidade de negociar os termos antes de finalizar o contrato. As seguintes funcionalidades serão necessárias:
+
+1. Mensagens Privadas: Para permitir a comunicação direta entre o cliente e o freelancer. Isso permitirá que eles discutam os detalhes do projeto, prazos, orçamento e outros requisitos específicos.
+2. Alteração de Propostas: O cliente deverá ter a capacidade de solicitar alterações na proposta enviada pelo freelancer. Isso pode incluir ajustes no orçamento, prazos ou escopo do projeto.
+3. Aceitação/Rejeição de Propostas: O cliente terá a opção de aceitar ou rejeitar uma proposta após a negociação. Uma vez que uma proposta é aceita, ela se transforma em um contrato de trabalho.
+4. Contratos de Trabalho: Uma vez que uma proposta seja aceita, um contrato de trabalho será gerado automaticamente, que detalha os termos acordados entre o freelancer e o cliente.
+
+Aqui estão os principais dados que devem ser preenchidos durante o processo de negociação:
+
+1. Identificação do Cliente: O nome do cliente ou da empresa que está contratando o serviço.
+2. Identificação do Freelancer: O nome ou pseudônimo do freelancer que está sendo contratado.
+3. Descrição do Trabalho: Detalhes sobre o escopo do trabalho, incluindo quaisquer alterações que foram feitas durante a negociação.
+4. Orçamento: O valor acordado para o trabalho. Isso pode ser uma taxa fixa para todo o projeto, ou uma taxa horária dependendo da natureza do trabalho.
+5. Prazo: A data ou prazo acordado para a conclusão do trabalho.
+6. Termos Específicos: Quaisquer outros termos que foram acordados durante a negociação. Isso pode incluir marcos de pagamento, requisitos de revisão, e outros.
+
+2.2.2.5.	Gerenciamento de Projetos
+O Gerenciamento de Projetos é uma funcionalidade essencial que permite aos clientes acompanhar o progresso do projeto, comunicar-se com os freelancers e garantir que o trabalho esteja sendo concluído conforme o esperado. Aqui estão as principais funcionalidades para o gerenciamento de projetos:
+
+1. Visão Geral do Projeto: Uma interface de fácil utilização que mostra o status atual do projeto, incluindo prazo, etapas concluídas, tarefas pendentes, etc.
+2. Comunicação com o Freelancer: Ferramentas de mensagens internas para facilitar a comunicação direta com o freelancer, discutir detalhes do projeto, fazer perguntas, solicitar alterações, etc.
+3. Acompanhamento de Progresso: Um sistema que permite ao cliente ver quais tarefas foram concluídas e quais estão pendentes, ajudando a entender o progresso geral do projeto.
+4. Aprovação de Etapas/Marcos: Os clientes podem aprovar o trabalho concluído em diferentes etapas antes de liberar o pagamento para o freelancer.
+5. Feedback e Avaliações: Os clientes podem fornecer feedback ao freelancer durante o projeto e também após a sua conclusão. Isso inclui avaliações que serão visíveis para outros clientes.
+6. Suporte e Mediação: Em caso de problemas ou disputas com o freelancer, os clientes podem solicitar suporte ou mediação do site.
+
+Aqui estão os principais dados a serem preenchidos pelo cliente durante o gerenciamento de projetos:
+
+1. Nome do Projeto: Uma breve descrição do projeto para referência interna.
+2. Descrição do Projeto: Detalhes completos sobre o projeto, suas expectativas e requisitos.
+3. Prazo: A data em que o projeto precisa ser concluído.
+4. Orçamento: A quantia total que o cliente está disposto a pagar pelo projeto.
+5. Milestones/Etapas: As várias etapas do projeto, cada uma com suas próprias descrições, prazos e pagamentos associados.
+6. Freelancer Contratado: O nome ou ID do freelancer que foi contratado para o projeto.
+7. Status do Projeto: Indicador atual do progresso do projeto (por exemplo, "Em andamento", "Concluído", "Em Disputa").
+8. Comunicações: Registro de todas as mensagens trocadas com o freelancer.
+9. Avaliações: Feedback e classificação do freelancer após a conclusão do projeto.
+
+2.2.2.6.	Pagamento de Serviços
+A funcionalidade de pagamento de serviços é crucial para a eficácia da plataforma Cyberjobs. Essa funcionalidade deve ser segura, fácil de usar e deve permitir que os clientes paguem pelos serviços que receberam dos freelancers.
+
+Funcionalidades do Sistema de Pagamento
+
+1. Depósito em Garantia (Escrow): Os clientes devem depositar o pagamento no momento da contratação de um freelancer. O dinheiro será mantido em um sistema de depósito em garantia até que o trabalho seja concluído conforme acordado.
+2. Liberação de Pagamento: Uma vez que o trabalho seja concluído e aprovado pelo cliente, o pagamento é liberado para o freelancer.
+3. Disputas de Pagamento: Em caso de disputas sobre a qualidade do trabalho, a funcionalidade deve permitir que os clientes levantem uma disputa. Os administradores da plataforma poderão mediar na resolução do conflito.
+4. Múltiplas Opções de Pagamento: A plataforma deve suportar diversas opções de pagamento, como cartão de crédito, PayPal, transferência bancária, entre outras.
+5. Recibos e Faturas: Após cada pagamento, o sistema deve gerar automaticamente um recibo ou fatura para o cliente.
+
+Dados Necessários para Pagamento de Serviços
+
+1. Informações do Cartão de Crédito/Conta Bancária: Dados do cartão de crédito ou conta bancária para processamento do pagamento. Isso inclui o nome do titular, número do cartão ou conta, data de validade (para cartões), código de segurança e banco emissor.
+2. Informações do Trabalho: Dados referentes ao trabalho que está sendo pago. Isso inclui o ID do trabalho, descrição, freelancer contratado, e o valor acordado.
+3. Informações de Contato: Dados de contato do cliente, como email e telefone, para confirmação do pagamento e envio de recibos ou faturas.
+
+4. Informações de Faturamento: Endereço de faturamento do cliente para fins de verificação do pagamento e criação de faturas.
+5. Informações de Disputa (se aplicável): Detalhes sobre qualquer disputa que possa ter surgido em relação ao trabalho. Isso inclui o motivo da disputa e qualquer comunicação relevante entre o cliente e o freelancer.
+
+2.2.2.7.	Avaliação dos Freelancers
+A Avaliação dos Freelancers é uma funcionalidade crucial que permite aos clientes classificar e deixar feedback sobre o trabalho dos freelancers após a conclusão de um projeto. Essa avaliação auxilia tanto freelancers quanto outros clientes, pois promove um ambiente de trabalho transparente e confiável.
+
+Funcionalidades:
+
+1. Sistema de Classificação Estrelar: Após a conclusão do projeto, o cliente poderá classificar o freelancer em uma escala de 1 a 5 estrelas. Esta avaliação estrelar se baseará em critérios como qualidade do trabalho, pontualidade, comunicação, profissionalismo e outros.
+2. Comentários/Feedback: Além da avaliação estrelar, o cliente também poderá deixar um comentário explicando sua classificação e compartilhando sua experiência com o freelancer. Isso proporcionará aos outros clientes um contexto maior sobre o desempenho do freelancer.
+3. Avaliação Privada: Este recurso permite que os clientes forneçam feedback diretamente para o freelancer que não será visível para outros usuários. Isso pode ser útil para fornecer críticas construtivas ou comentários mais detalhados sobre o trabalho.
+4. Relatório de Problemas: Se um cliente tiver um problema sério com um freelancer (como violação dos termos de serviço), eles poderão reportar o problema diretamente aos administradores através da interface de avaliação.
+
+Dados para Avaliação de Freelancers:
+
+1. ID do Freelancer: O identificador único do freelancer para garantir que a avaliação seja atribuída corretamente.
+2. ID do Projeto: O identificador único do projeto para rastrear qual trabalho está sendo avaliado.
+3. Classificação Estrelar: Um número de 1 a 5 representando a classificação geral do freelancer.
+4. Comentário de Avaliação: Um campo de texto para o cliente deixar um comentário detalhado sobre o trabalho do freelancer.
+5. Avaliação Privada: Um campo de texto para comentários privados direcionados ao freelancer.
+6. Data da Avaliação: A data em que a avaliação foi enviada. Útil para rastrear a relevância das avaliações.
+7. Reportar Problema: Um botão ou link que permitirá ao cliente relatar um problema diretamente para os administradores do site.
+
+Esse feedback será visível no perfil do freelancer, ajudando outros clientes a tomar decisões informadas ao contratar freelancers para seus projetos. Isso também incentiva os freelancers a manter um alto padrão de trabalho para receber avaliações positivas.
+2.2.3.	Funcionalidades para Administradores
+2.2.3.1.	Gerenciamento de Usuários
+O gerenciamento de usuários é uma das principais responsabilidades dos administradores do Cyberjobs. Isso envolve várias funções que garantem que os usuários estejam usando o site de maneira apropriada e segura.
+
+2.2.3.1.1.	Cadastro e Verificação de Usuários
+Os administradores deverão ter a capacidade de verificar os novos usuários, garantindo a autenticidade de suas informações. Isso pode envolver a verificação de documentos, validação de e-mail e telefone, entre outros processos.
+
+2.2.3.1.2.	Moderação de Conteúdo
+Os administradores terão a responsabilidade de moderar o conteúdo postado pelos usuários. Isso inclui descrições de trabalho, propostas, avaliações, e qualquer outra informação publicada no site.
+
+2.2.3.1.3.	Suspensão e Banimento de Usuários
+Os administradores também deverão ter a capacidade de suspender ou banir usuários que violem as políticas do site, realizem atividades suspeitas ou se comportem de maneira inapropriada.
+
+2.2.3.1.4.	Suporte ao Usuário
+Os administradores fornecerão suporte aos usuários, respondendo perguntas, resolvendo problemas técnicos e ajudando na resolução de disputas.
+
+Aqui estão os principais dados que precisarão ser preenchidos para um administrador gerenciar os usuários:
+
+1. Nome de usuário: nome único atribuído a cada usuário.
+2. Email: email válido do usuário para fins de comunicação e verificação.
+3. Número de telefone: usado para verificação e possíveis contatos de emergência.
+4. Status de verificação: mostra se o usuário foi verificado.
+5. Data de cadastro: data em que o usuário se registrou no site.
+6. Número de trabalhos postados/aceitos: para freelancers e clientes.
+7. Avaliações: feedbacks e classificações dadas/recebidas.
+8. Status de atividade: informa se o usuário está ativo ou inativo.
+9. Histórico de comportamento: registros de qualquer comportamento suspeito ou violações de política.
+
+Esses dados ajudarão os administradores a monitorar e gerenciar os usuários efetivamente.
+
+2.2.3.2.	Mediação de Disputas
+A mediação de disputas é uma parte crítica do papel do administrador no Cyberjobs. Esta funcionalidade visa resolver qualquer conflito que possa surgir entre clientes e freelancers durante a execução de um trabalho. O objetivo principal é garantir um ambiente justo e transparente, mantendo a confiança e a satisfação do usuário.
+
+Funcionalidades da Mediação de Disputas:
+
+1. Análise de Reclamações: Os administradores receberão notificações de quaisquer disputas levantadas e terão a capacidade de analisar as informações apresentadas por ambas as partes.
+2. Comunicação com as Partes: A plataforma deve permitir que os administradores entrem em contato com as partes envolvidas na disputa para esclarecer detalhes, se necessário.
+3. Tomada de Decisão: Com base nas regras do site e nas informações disponíveis, os administradores tomarão uma decisão justa sobre a disputa.
+4. Registro de Decisões: Todas as decisões tomadas serão registradas e mantidas para referência futura. Isso pode ser útil para disputas futuras semelhantes e para manter a transparência.
+5. Notificação das Partes: Após a decisão, ambas as partes envolvidas na disputa serão notificadas do resultado.
+
+Principais dados para a Mediação de Disputas:
+
+1. ID da Disputa: um identificador único para cada disputa para facilitar o rastreamento e a referência.
+2. ID do Trabalho: o identificador do trabalho associado à disputa.
+3. IDs de Usuários: identificadores para o cliente e o freelancer envolvidos na disputa.
+4. Detalhes da Disputa: uma descrição detalhada do problema levantado, incluindo qualquer evidência ou documentação relevante.
+5. Comunicações Relacionadas: qualquer comunicação entre as partes envolvidas ou entre o administrador e as partes.
+6. Decisão da Disputa: a decisão final tomada pelo administrador, incluindo uma justificativa detalhada.
+7. Status da Disputa: o estado atual da disputa (por exemplo, pendente, em análise, resolvida).
+
+Estes dados irão ajudar a garantir que o processo de mediação de disputas seja transparente, rastreável e justo. É importante ressaltar que todas as informações devem ser armazenadas de forma segura para proteger a privacidade dos usuários.
+2.2.3.3.	Monitoramento do Site
+O monitoramento do site é uma função crítica do administrador, pois permite que ele ou ela veja o que está acontecendo no site em tempo real. Isso ajuda a identificar quaisquer atividades suspeitas ou comportamentos inadequados e a intervir rapidamente quando necessário.
+
+As principais funcionalidades para monitoramento do site incluem:
+
+2.2.3.3.1.	Rastreamento de Atividades de Usuários
+Isso permite que os administradores vejam quais ações os usuários estão realizando no site. Isso pode incluir visualização de páginas, envio de mensagens, postagem de trabalhos, envio de propostas, etc. Esse recurso pode ajudar a identificar atividades suspeitas e também é útil para entender o comportamento do usuário, o que pode informar melhorias no site.
+
+2.2.3.3.2.	Monitoramento de Transações Financeiras
+As transações financeiras realizadas no site devem ser rigorosamente monitoradas. Isso inclui pagamentos de clientes para freelancers, taxas cobradas pelo site, e possivelmente reembolsos ou disputas. Isso ajuda a garantir que todas as transações sejam legítimas e seguras.
+
+2.2.3.3.3.	Moderação de Conteúdo
+Os administradores devem ser capazes de moderar o conteúdo postado no site. Isso inclui descrições de trabalho, perfis de usuário, mensagens de negociação, avaliações e comentários. Isso ajuda a garantir que o conteúdo seja apropriado e siga as diretrizes do site.
+
+Aqui estão alguns dos principais dados que os administradores podem precisar preencher ou acessar ao monitorar o site:
+
+1. ID do Usuário: um identificador exclusivo para cada usuário.
+2. Tipo de Usuário: identifica se o usuário é um freelancer, cliente ou outro administrador.
+3. Histórico de Atividade: uma lista de ações que o usuário realizou no site.
+4. Informações de Transação: detalhes sobre qualquer transação financeira que o usuário participou, incluindo a quantidade de dinheiro envolvida e os outros usuários envolvidos.
+5. Conteúdo Postado: qualquer conteúdo que o usuário tenha postado no site, incluindo descrições de trabalho, propostas, mensagens, avaliações e comentários.
+6. Status de Conta: indica se a conta do usuário está ativa, suspensa ou encerrada.
+7. Informações de Contato: informações de contato para o usuário, que podem ser necessárias para resolução de disputas ou para comunicação direta dos administradores.
+
+Estes dados fornecerão aos administradores uma visão clara e abrangente das atividades no site, permitindo-lhes gerir eficazmente e manter a integridade e a segurança do Cyberjobs.
+2.2.3.4.	Moderação de Conteúdo
+A moderação de conteúdo é um aspecto crucial da administração do site. Administradores do Cyberjobs terão acesso a uma variedade de ferramentas para ajudá-los a garantir que o conteúdo postado no site seja adequado, respeitoso e dentro das diretrizes da comunidade. 
+
+Funcionalidades de Moderação de Conteúdo:
+
+1. Aprovação prévia de conteúdo: Antes de serem publicados, determinados tipos de conteúdo, como postagens de projetos ou perfis de usuário, podem precisar ser aprovados pelos administradores. Isso permitirá um controle mais rígido sobre o que é permitido no site.
+2. Filtro de linguagem e conteúdo ofensivo: Ferramentas automáticas podem ser usadas para filtrar linguagem ofensiva ou conteúdo inapropriado. Se identificado, o conteúdo pode ser bloqueado automaticamente, ou um alerta pode ser enviado ao administrador para revisão.
+3. Relatórios de usuários: Usuários poderão reportar conteúdo que acreditam ser inapropriado ou contra as diretrizes da comunidade. Os administradores poderão então revisar esses relatórios e tomar a ação apropriada.
+4. Remoção de conteúdo e/ou usuários: Em casos extremos, os administradores podem precisar remover conteúdo ou até mesmo banir usuários. Isso geralmente ocorrerá apenas após várias infrações ou para infrações muito graves.
+
+Principais Dados para Moderação de Conteúdo:
+
+1. ID de conteúdo: Identificador único para cada peça de conteúdo no site.
+2. Tipo de conteúdo: Categoria do conteúdo (postagem de projeto, perfil de usuário, avaliação, comentário, etc.).
+3. Autor do conteúdo: Usuário que criou o conteúdo.
+4. Data de publicação: Quando o conteúdo foi publicado.
+5. Status de moderação: Estado atual da moderação para este conteúdo (aprovado, pendente, recusado).
+6. Relatórios: Quantidade e natureza de quaisquer relatórios feitos por usuários contra este conteúdo.
+7. Ações tomadas: Quaisquer ações tomadas pelos administradores em relação a este conteúdo (por exemplo, remoção do conteúdo, advertência ao usuário, banimento do usuário, etc.).
+
+Esse seria um escopo inicial para a funcionalidade de moderação de conteúdo. Este escopo pode ser ampliado ou modificado conforme as necessidades do site evoluem. Você gostaria de detalhar algum outro item?
+
+3.	Tecnologia e Arquitetura
+3.1.	Tecnologias a serem utilizadas
+Para a construção eficaz do projeto Cyberjobs, planejamos usar um conjunto de tecnologias robustas e confiáveis. 
+
+1. Back-end: 
+   - *Linguagem*: Python - A linguagem Python é conhecida por sua simplicidade e legibilidade do código, tornando-a uma escolha ideal para a construção de nosso back-end. Além disso, Python é uma linguagem dinamicamente tipada, o que facilita a prototipagem rápida e possui um vasto ecossistema de bibliotecas e frameworks.
+   - *Framework*: Django - Este é um dos frameworks Python mais populares para desenvolvimento web. Django é conhecido por ser "baterias inclusas", o que significa que ele vem com uma série de módulos e funcionalidades prontas para uso, como autenticação de usuários, ORM, middleware, etc.
+   - *API*: Django Rest Framework - Este é um módulo de Django poderoso para construção de APIs REST. Isso nos permitirá criar uma API que será utilizada tanto pelo site como pelo aplicativo Flutter.
+2. Front-end: 
+   - *Linguagem*: Dart - Uma linguagem orientada a objetos, fácil de aprender e usar, com uma boa biblioteca padrão e uma sintaxe clara.
+   - *Framework*: Flutter - Um framework UI da Google que permite a criação de belas aplicações para dispositivos móveis, web e desktop a partir de uma única base de código. Isso permite que possamos desenvolver o site e o aplicativo com o mesmo conjunto de tecnologias.
+3. Banco de dados: 
+   - PostgreSQL - Um poderoso sistema de banco de dados relacional de código aberto com mais de 30 anos de desenvolvimento ativo que ganhou uma sólida reputação por sua arquitetura comprovada, confiabilidade, integridade de dados e correção.
+4. Hospedagem e Implantação: 
+   - AWS (Amazon Web Services) - Esta é uma escolha comum para a hospedagem de aplicações web devido à sua escalabilidade, confiabilidade e vasta gama de serviços que podem ser usados para gerenciar e monitorar o aplicativo.
+5. Ferramentas Auxiliares:
+   - Git - Para controle de versão.
+   - Docker - Para criação de ambientes isolados e portáveis.
+   - Jenkins - Para integração e entrega contínua.
+
+Esse é um esboço inicial das tecnologias que planejamos utilizar. Conforme o projeto avança, podemos descobrir que precisamos incorporar mais ferramentas e serviços para atender a necessidades específicas.
+
+3.2.	Arquitetura do Sistema
+O sistema será baseado em uma arquitetura de três camadas: front-end, back-end e a camada de banco de dados. 
+
+Camada de Front-end (Cliente):
+
+O front-end da aplicação será construído utilizando o Flutter, que é um framework do Google para o desenvolvimento de interfaces para dispositivos móveis e desktop. O Flutter permitirá que a aplicação seja construída uma única vez e seja compatível tanto para Android quanto para iOS, além de navegadores web.
+
+Camada de Back-end (Servidor):
+
+O back-end será desenvolvido com o Django REST Framework, um framework Python poderoso e flexível para a construção de APIs web. Este back-end atuará como uma interface entre a camada do cliente e a camada do banco de dados.
+
+Camada do Banco de Dados:
+
+O PostgreSQL será utilizado como o sistema de gerenciamento de banco de dados. O PostgreSQL é um poderoso sistema de banco de dados relacional de código aberto, com muitos recursos avançados para otimização de consultas e segurança.
+
+Infraestrutura e Hospedagem:
+
+Todo o sistema será hospedado na Amazon Web Services (AWS), uma plataforma segura de serviços em nuvem que oferece capacidade de computação, armazenamento de banco de dados, entrega de conteúdo e outras funcionalidades para ajudar as empresas a escalar e crescer. 
+
+Os principais serviços da AWS que podem ser utilizados incluem:
+
+1. AWS EC2: para hospedar as instâncias do servidor que executarão o back-end Django.
+2. AWS RDS: para hospedar o banco de dados PostgreSQL.
+3. AWS S3: para armazenar e servir arquivos estáticos e de mídia.
+4. AWS Elastic Beanstalk: Uma plataforma fácil de usar para implantação e escalabilidade de aplicações.
+
+Segurança:
+
+A segurança será uma preocupação crucial em todas as camadas da aplicação. Algumas das medidas de segurança que podem ser implementadas incluem autenticação e autorização de usuário, criptografia de dados, auditoria e registro de eventos, controle de acesso baseado em funções, entre outros.
+
+A arquitetura proposta é escalável e permite a incorporação de novas funcionalidades e serviços conforme a necessidade. As tecnologias propostas são modernas e amplamente utilizadas, o que garantirá um produto final robusto, seguro e eficiente.
+4.	Design e Interface do Usuário
+4.1.	Layout das Páginas
+Claro, vamos lá. Abaixo estão as páginas que eu considero essenciais para o nosso site Cyberjobs, cada uma com uma breve descrição de sua finalidade e elementos principais:
+
+1. Página Inicial: A primeira página que os usuários verão. Deve fornecer uma visão geral do que é o Cyberjobs e suas principais funções. Deve ter um design atraente e claramente definir as ações que os usuários podem realizar (por exemplo, procurar freelancers, postar um trabalho, se inscrever como freelancer).
+2. Página de Cadastro / Login: Essa página permitirá que novos usuários se registrem no site e usuários existentes façam login. Deverá suportar autenticação via e-mail e senha, bem como integração com plataformas de redes sociais (Google, Facebook, etc).
+3. Página de Perfil do Usuário: Uma página para os usuários (freelancers e clientes) personalizarem seus perfis. Os freelancers podem listar suas habilidades, portfólio, histórico de trabalho, taxas, etc. Os clientes podem listar detalhes da empresa, histórico de projetos, avaliações, etc.
+
+4. Página de Listagem de Trabalhos: Esta página exibirá os trabalhos disponíveis para os freelancers. Os trabalhos podem ser filtrados e classificados de acordo com várias categorias (por exemplo, habilidades necessárias, orçamento, prazo, etc).
+5. Página de Detalhes do Trabalho: Uma página que mostra detalhes mais específicos sobre um trabalho postado, como a descrição do trabalho, orçamento, prazo, habilidades requeridas, informações do cliente e botão para enviar propostas.
+6. Página de Gerenciamento de Trabalho: Esta página será para os clientes gerenciarem seus trabalhos postados, visualizarem propostas, contratarem freelancers e acompanharem o progresso do trabalho.
+7. Página de Disputa: Uma página dedicada para lidar com qualquer disputa que possa surgir entre um cliente e um freelancer. Deve permitir que ambos os lados apresentem suas alegações e fornecer uma maneira de mediar a resolução.
+8. Página de Suporte / FAQ: Uma página com perguntas frequentes e detalhes de como entrar em contato com o suporte para obter ajuda.
+9. Página de Pagamento: Uma página segura para processar pagamentos, liberar fundos para freelancers e lidar com reembolsos se necessário.
+10. Página de Termos e Condições / Política de Privacidade: Páginas que detalham os termos de uso do site, políticas de privacidade, e outros detalhes legais.
+
+Estas são as páginas fundamentais. No entanto, outras páginas podem ser adicionadas conforme necessário. 
+
+Cada uma dessas páginas deve ter um design coeso e consistente, alinhado com a identidade da marca Cyberjobs. Devemos utilizar práticas de design responsivo para garantir que o site funcione bem em diferentes dispositivos e tamanhos de tela.
+
+4.2.	Fluxo do Usuário
+O fluxo do usuário para o site Cyberjobs deve ser projetado para ser simples, intuitivo e eficaz, oferecendo uma excelente experiência ao usuário, seja ele um freelancer ou um cliente.
+
+4.2.1.	 Registro e Login
+- Os usuários visitam o site e podem se registrar utilizando um endereço de e-mail válido, ou através de uma conta Google, Facebook, LinkedIn, etc.
+- Após o registro, os usuários passam por um processo de verificação de e-mail.
+- Os usuários registrados podem fazer login para acessar suas contas.
+
+4.2.2.	Perfil do Usuário
+- Após o login, os usuários podem completar seus perfis, incluindo detalhes como habilidades (para freelancers), descrição, foto de perfil, etc.
+- Os usuários também podem configurar suas preferências de pagamento.
+
+4.2.3.	 Postagem de Trabalho (Para clientes)
+- Os clientes podem postar detalhes sobre os trabalhos que precisam ser feitos, incluindo descrição do trabalho, habilidades necessárias, prazo, orçamento, etc.
+- Eles podem revisar e publicar o trabalho, que será listado na plataforma para os freelancers visualizarem.
+
+4.2.4.	 Busca e Proposta de Trabalho (Para freelancers)
+- Os freelancers podem buscar trabalhos baseando-se em suas habilidades, orçamento, prazo, etc.
+- Eles podem ver os detalhes dos trabalhos e enviar propostas aos clientes, detalhando como eles pretendem realizar o trabalho e por qual valor.
+
+4.2.5.	 Seleção e Contratação (Para clientes)
+- Os clientes podem revisar as propostas recebidas, visualizar os perfis dos freelancers, e selecionar o freelancer que melhor atenda às suas necessidades.
+- Eles podem então contratar o freelancer, que receberá uma notificação sobre a contratação.
+
+4.2.6.	 Execução do Trabalho
+- Após a contratação, o freelancer começa a executar o trabalho.
+- O cliente pode acompanhar o progresso do trabalho através de atualizações periódicas.
+
+4.2.7.	 Pagamento e Avaliação
+- Uma vez que o trabalho é concluído e aprovado pelo cliente, o pagamento é liberado para o freelancer.
+- Tanto o freelancer quanto o cliente podem avaliar um ao outro, o que ajuda a construir a reputação na plataforma.
+
+4.2.8.	 Disputa e Resolução de Conflitos
+- Em caso de disputas, os usuários podem iniciar um processo de reclamação.
+- A equipe do Cyberjobs irá intervir para resolver a disputa de maneira justa, com base nas evidências fornecidas.
+
+5.	Gerenciamento de Projetos e Trabalhos
+5.1.	Criação e Publicação de Trabalhos
+O processo de criação e publicação de trabalhos deve ser simples e intuitivo para o cliente. Aqui estão os subitens desse tópico:
+
+5.1.1.	 Registro de Clientes: Para publicar um trabalho, o cliente deve primeiramente estar registrado no site. Esse registro deve ser fácil, solicitar apenas informações essenciais e ter um processo de verificação de identidade para garantir a segurança.
+
+5.1.2.	 Criação de um novo trabalho: O cliente deve poder criar um novo trabalho facilmente a partir de seu painel de controle. Ao criar um trabalho, deve-se solicitar informações como:
+
+•	Título do Trabalho: Deve ser conciso e claro, indicando a natureza do trabalho a ser realizado.
+•	- Descrição do Trabalho: Este é o espaço para o cliente detalhar o que espera do freelancer, o que o trabalho envolve, habilidades necessárias, etc.
+•	- Categoria e Subcategoria: Essas opções ajudarão a classificar o trabalho em um setor específico, tornando mais fácil para freelancers encontrar o trabalho.
+•	- Orçamento: Aqui, o cliente pode definir o orçamento para o trabalho. Isso pode ser um valor fixo ou uma faixa de preço.
+•	- Prazo: Esta seção permitirá ao cliente definir o prazo para a conclusão do trabalho.
+
+5.1.3.	 Revisão e Publicação: Após a criação do trabalho, o cliente deve ter a opção de revisar todas as informações antes de publicar. Uma vez publicado, o trabalho deve ser visível para os freelancers relevantes com base na categoria e subcategoria.
+
+5.1.4.	 Modificação de um Trabalho: O cliente deve ter a opção de modificar o trabalho mesmo após a publicação. Isso permitirá que ele atualize informações, prazos ou orçamentos conforme necessário.
+
+5.1.5.	 Desativação/Encerramento de um Trabalho: Caso o trabalho tenha sido concluído, cancelado ou se o cliente desejar removê-lo por qualquer motivo, ele deve ter a opção de desativar ou encerrar o trabalho. Quando um trabalho é desativado, ele deve se tornar invisível para novas propostas de freelancers.
+
+5.2.	Propostas e Negociação
+
+5.2.1.	 Envio de Propostas
+Assim que um cliente publicar um trabalho, os freelancers registrados no Cyberjobs que possuem as habilidades necessárias serão notificados. Eles terão a oportunidade de apresentar propostas detalhadas para o projeto, que incluirão:
+
+•	Uma visão geral de como eles planejam abordar e completar o trabalho.
+•	Uma cotação do custo do projeto.
+•	Tempo estimado de conclusão.
+•	Qualquer informação adicional que possa convencer o cliente a escolher sua proposta.
+
+5.2.2.	 Negociação de Propostas
+Uma vez que uma proposta é enviada, o cliente tem a opção de:
+
+•	Aceitar a proposta tal como está.
+•	Iniciar uma negociação com o freelancer para ajustar detalhes da proposta, como o preço, o escopo do trabalho ou o cronograma de entrega.
+•	Recusar a proposta.
+
+5.2.3.	 Aceitação de Propostas
+Se o cliente aceitar a proposta, o freelancer será notificado e o trabalho poderá começar. Um acordo será formalizado na plataforma detalhando o escopo do trabalho, prazo e pagamento acordado.
+
+5.2.4.	 Sistema de Mensagens
+Durante todo o processo de proposta e negociação, um sistema de mensagens estará disponível para permitir a comunicação entre o cliente e o freelancer. Isso permitirá esclarecer quaisquer dúvidas ou detalhes antes do início do trabalho.
+
+5.2.5.	 Transparência e Rastreabilidade
+Todas as interações e modificações de propostas serão registradas para garantir a transparência e rastreabilidade, que poderão ser úteis em caso de disputas futuras.
+
+5.3.	Processo de Execução do Trabalho
+Esta é uma etapa crucial, pois trata-se da realização do trabalho contratado.
+
+5.3.1.	  Aceitação da Proposta
+Assim que o cliente escolher a proposta de um freelancer, ele deverá confirmar sua escolha. Ao confirmar, um aviso será enviado ao freelancer para que ele também aceite o contrato. Uma vez que ambos os lados tenham concordado, o trabalho começa oficialmente.
+
+5.3.2.	 Contrato de Trabalho
+Um contrato de trabalho digital será gerado automaticamente com todos os detalhes do trabalho, incluindo a descrição do trabalho, o prazo acordado, o preço acordado, e outras condições. Ambas as partes terão acesso a este contrato durante a execução do trabalho.
+
+5.3.3.	 Comunicação entre Cliente e Freelancer
+O sistema deve fornecer uma plataforma de comunicação segura para que o cliente e o freelancer possam discutir os detalhes do trabalho. Isso pode incluir mensagens de texto, chamadas de voz, videochamadas, compartilhamento de arquivos, etc.
+
+5.3.4.	 Acompanhamento do Progresso do Trabalho
+O sistema deve permitir que o cliente acompanhe o progresso do trabalho. Isso pode incluir status de conclusão, entregas parciais, marcos, etc. O freelancer deve ter a capacidade de atualizar essas informações.
+
+5.3.5.	 Revisões
+O cliente deve ter a possibilidade de solicitar revisões do trabalho conforme necessário. O sistema deve permitir o controle de quantas revisões foram solicitadas e concluídas.
+
+5.3.6.	 Conclusão do Trabalho
+Após a conclusão do trabalho e a aprovação do cliente, o sistema marcará automaticamente o trabalho como concluído. O pagamento, então, será liberado para o freelancer.
+
+5.3.7.	 Avaliações e Feedback
+Após a conclusão do trabalho, o cliente e o freelancer poderão avaliar um ao outro. Esta avaliação será visível para outros usuários, ajudando a construir a reputação dentro da plataforma.
+
+Esta é uma visão geral do processo de execução do trabalho na plataforma Cyberjobs. Para cada um destes tópicos, é importante considerar as especificidades técnicas e as interações com outras partes do sistema. Isso inclui, por exemplo, como as notificações serão enviadas, como a segurança será garantida durante a comunicação e o compartilhamento de arquivos, como os pagamentos serão processados, etc.
+5.4.	Pagamentos e Transferências
+Ótimo! Vamos detalhar o item 5.4, "Pagamentos e Transferências". Esta seção é de vital importância, pois lida diretamente com o manejo de dinheiro dos usuários na plataforma.
+
+5.4.1.	 Métodos de pagamento 
+Devemos oferecer vários métodos de pagamento convenientes para nossos usuários. Isso pode incluir cartões de crédito/débito, PayPal, transferência bancária, e pagamentos via carteiras digitais como Google Pay e Apple Pay. Para o mercado brasileiro, é essencial incluir métodos de pagamento populares como Boleto Bancário e Pix.
+
+5.4.2.	 Conta de depósito em garantia (Escrow) 
+Para garantir a segurança financeira tanto para freelancers quanto para clientes, nosso site deve oferecer um sistema de pagamento em depósito em garantia. Isso significa que o pagamento do cliente é retido pela plataforma até que o trabalho seja concluído satisfatoriamente.
+
+5.4.3.	 Liberação de fundos 
+Os fundos serão liberados para o freelancer após a confirmação do cliente de que o trabalho foi concluído a contento. Se houver uma disputa, a resolução pode resultar em um reembolso parcial ou total para o cliente, ou o pagamento completo para o freelancer.
+
+5.4.4.	 Tarifas e comissões 
+O modelo de negócios deve incluir a cobrança de uma taxa de serviço dos freelancers e, possivelmente, dos clientes. É importante definir claramente essas taxas e garantir que sejam competitivas em relação a outras plataformas similares.
+
+5.4.5.	 Saque de fundos
+Os freelancers devem ser capazes de retirar seus fundos facilmente. Para isso, devemos oferecer opções de transferência para contas bancárias e carteiras digitais.
+
+5.4.6.	 Moedas
+Embora inicialmente possamos operar apenas em Real (BRL), é importante considerar a implementação de suporte para múltiplas moedas, a fim de facilitar a expansão internacional no futuro.
+
+5.4.7.	 Segurança dos pagamentos
+Os pagamentos devem ser processados através de uma plataforma segura, certificada e em conformidade com as normas PCI-DSS. Devemos também implementar recursos como criptografia SSL, detecção de fraude e autenticação de dois fatores para proteger as transações dos usuários.
+
+É importante que todas essas funções sejam desenvolvidas e implementadas de maneira transparente e fácil de usar para oferecer a melhor experiência possível para os usuários.
+
+6.	Disputas e Resolução de Conflitos
+6.1.	Processo de Reclamação
+O processo de reclamação é uma parte crucial do projeto Cyberjobs, dado que é essencial garantir a satisfação dos usuários e manter a integridade do serviço. Este processo deve ser simples, direto e justo para ambas as partes (freelancers e clientes). 
+
+1. Submissão da Reclamação: 
+ O usuário (freelancer ou cliente) deve ser capaz de submeter uma reclamação através da plataforma em um determinado trabalho. Este processo deve ser facilitado por meio de uma interface intuitiva e clara. Uma vez submetida, a reclamação deve ser registrada no sistema para revisão.
+
+2. Detalhamento da Reclamação: 
+Ao submeter uma reclamação, o usuário deve fornecer uma descrição detalhada do problema, com a possibilidade de anexar provas relevantes (por exemplo, capturas de tela, e-mails, etc.). Essa etapa é crucial para assegurar que a reclamação possa ser analisada de maneira justa.
+
+3. Notificação da Parte Reclamada: 
+Assim que a reclamação for registrada, a outra parte envolvida no trabalho deve ser notificada automaticamente pelo sistema. Essa notificação deve incluir a descrição do problema e quaisquer provas apresentadas.
+
+4. Resposta à Reclamação: 
+A parte reclamada deve ter a oportunidade de responder à reclamação, fornecendo sua versão dos eventos e qualquer evidência adicional. A resposta deve ser registrada no sistema para revisão.
+
+5. Revisão da Reclamação: 
+Uma vez que ambas as partes tenham tido a oportunidade de apresentar suas versões dos eventos, a equipe de suporte do Cyberjobs deve revisar a reclamação. Esta revisão deve levar em consideração todas as provas apresentadas, e a decisão deve ser imparcial e justa.
+
+6. Decisão e Resolução: 
+Após a revisão, a decisão deve ser comunicada a ambas as partes e qualquer ação necessária (por exemplo, reembolso, modificações no trabalho, etc.) deve ser tomada.
+
+7. Feedback: 
+ Após a conclusão do processo, os usuários devem ser incentivados a fornecer feedback sobre como o processo foi conduzido. Isso permitirá que o sistema continue a melhorar e adaptar-se às necessidades dos usuários.
+
+Em todas as etapas, o sistema deve manter as partes informadas sobre o progresso da reclamação. Isso pode ser feito por meio de atualizações automáticas por e-mail e/ou notificações dentro da plataforma. 
+
+Por fim, é essencial garantir a privacidade e confidencialidade dos usuários durante todo o processo de reclamação. Todas as informações fornecidas devem ser utilizadas apenas com o propósito de resolver a reclamação e não devem ser compartilhadas com terceiros sem o consentimento do usuário.
+
+6.2.	Resolução de Disputas
+O processo de resolução de disputas é crucial para manter a confiança e a satisfação dos usuários no Cyberjobs.
+
+6.2.1.	Intervenção inicial automática: Em primeiro lugar, sempre incentivamos que freelancers e clientes resolvam seus problemas por meio de comunicação direta e negociação. Entretanto, se uma disputa for oficialmente registrada, um sistema automatizado inicialmente irá tentar resolver o problema sugerindo possíveis soluções baseadas na natureza da disputa e nos termos acordados no início do trabalho.
+
+6.2.2.	Mediação do Cyberjobs: Caso a intervenção inicial automática não resolva a disputa, a equipe do Cyberjobs entrará em ação. Um representante imparcial do Cyberjobs analisará todas as informações, comunicações e entregas fornecidas por ambas as partes para chegar a uma resolução justa.
+
+6.2.3.	Apelo à Decisão: Se qualquer uma das partes não estiver satisfeita com a decisão da mediação, ela poderá apelar da decisão. Nesse caso, uma equipe de resolução de disputas de nível superior ou um terceiro imparcial revisará a disputa e tomará a decisão final.
+
+6.2.4.	Garantia de pagamento e trabalho: Para proteger ambas as partes, o pagamento do cliente será mantido em um depósito seguro (escrow) durante a execução do trabalho. Este valor só será liberado para o freelancer após a conclusão do trabalho e a satisfação do cliente. Caso haja disputa, o valor será retido até que a disputa seja resolvida.
+
+6.2.5.	Transparência: Todo o processo de disputa será transparente para ambas as partes. Ambas terão acesso às razões da decisão e à documentação relevante. Além disso, o Cyberjobs publicará diretrizes claras sobre como evitam-se conflitos e como proceder no caso de uma disputa.
+
+6.2.6.	Aprendizado e Melhoria: Após a resolução de cada disputa, o incidente será analisado para aprendizado e potenciais melhorias no sistema para evitar que incidentes similares ocorram no futuro.
+
+Acreditamos que com um sistema de resolução de disputas robusto, transparente e justo, será possível garantir a satisfação e confiança dos usuários do Cyberjobs. Essa também será uma maneira eficaz de manter a reputação positiva da plataforma.
+
+7.	Segurança e Privacidade
+7.1.	Proteção de Dados
+Para o projeto Cyberjobs, a proteção de dados será um componente fundamental para garantir a confiança dos usuários em nosso sistema. Aqui estão os principais sub-tópicos que serão abordados nesta seção:
+
+1. Compliance com GDPR e LGPD: Como estamos operando globalmente, precisamos garantir que nossas práticas de proteção de dados estejam em conformidade com o Regulamento Geral de Proteção de Dados (GDPR) da União Europeia e a Lei Geral de Proteção de Dados (LGPD) do Brasil. Isso inclui a garantia de que os usuários possam acessar, atualizar, transferir e apagar seus dados a qualquer momento.
+
+2. Coleta de Dados: Precisamos esclarecer quais dados pessoais são coletados dos usuários (por exemplo, nome, endereço de email, endereço IP) e como esses dados são usados (por exemplo, para autenticação, para proporcionar uma experiência personalizada, para fins de marketing).
+
+3. Armazenamento de Dados: Os dados coletados dos usuários serão armazenados de forma segura usando criptografia de ponta a ponta. A escolha do servidor, localização e fornecedor também precisam estar de acordo com as leis e melhores práticas de proteção de dados.
+
+4. Compartilhamento de Dados: Em situações onde os dados dos usuários precisam ser compartilhados com terceiros (por exemplo, para processamento de pagamentos), esses terceiros devem cumprir com nossas políticas de privacidade e proteção de dados.
+
+5. Treinamento e Conscientização: Todos os funcionários e colaboradores envolvidos na manipulação de dados pessoais precisam passar por um treinamento regular de proteção de dados. Isso garantirá que eles estejam cientes das melhores práticas e das consequências legais de violações de dados.
+
+6. Auditorias de Proteção de Dados: Devemos realizar auditorias regulares de proteção de dados para garantir que nossas práticas estejam em conformidade com as leis e regulamentos relevantes.
+
+7. Incidentes de Violação de Dados: No caso improvável de uma violação de dados, temos que ter um plano de ação claro que minimize os danos e notifique todas as partes afetadas de maneira apropriada e dentro dos prazos legais.
+
+8. Política de Privacidade: Finalmente, precisamos ter uma Política de Privacidade clara e acessível que explique todas essas práticas para os usuários de uma maneira fácil de entender. A política deve ser facilmente acessível a partir de todas as páginas do site.
+
+7.2.	Segurança de Transações
+Nossa plataforma Cyberjobs deve fornecer uma maneira segura e confiável para os clientes pagarem pelos serviços dos freelancers e para que os freelancers recebam por seus trabalhos. Nós precisamos garantir a segurança durante todo o processo de pagamento, de modo que todas as partes envolvidas possam confiar na plataforma.
+
+Para garantir a segurança das transações, nós devemos:
+
+1. Uso de Plataformas de Pagamento Confiáveis: Usaremos uma plataforma de pagamento terceirizada reconhecida para gerenciar todas as transações financeiras na plataforma. Exemplos podem incluir PayPal, Stripe ou PagSeguro. Essas plataformas já têm recursos de segurança robustos em vigor.
+
+2. SSL e Criptografia: O site deve ter uma conexão SSL (Secure Sockets Layer) para garantir que os dados transmitidos entre o site e o usuário sejam criptografados e seguros. Além disso, quaisquer dados de transação armazenados devem ser criptografados.
+
+3. Verificação em Duas Etapas: Para adicionar uma camada extra de segurança, devemos incluir um sistema de verificação em duas etapas para os usuários ao realizar transações de alto valor.
+
+4. Autenticação de Usuário: Implementaremos um sistema de autenticação de usuário robusto para garantir que apenas os usuários autorizados possam acessar as informações de pagamento.
+
+5. Seguro de Transação: Implementaremos um sistema de garantia ou seguro de transação para proteger ambas as partes contra fraudes. Isso pode ser realizado através de um sistema de depósito em garantia (escrow), onde o pagamento é retido pela plataforma até que o serviço seja concluído satisfatoriamente.
+
+6. Monitoramento de Transações Suspeitas: Vamos monitorar continuamente as transações para detectar comportamentos suspeitos ou padrões de fraude. Se alguma atividade suspeita for detectada, a transação será interrompida e as partes envolvidas serão notificadas.
+
+A segurança das transações é uma prioridade máxima para a Cyberjobs. Queremos que nossos usuários tenham total confiança ao usar nossa plataforma, sabendo que suas transações e dados financeiros estão seguros.
+
+8.	Manutenção e Suporte
+8.1.	Atualizações do Sistema
+As atualizações do sistema serão fundamentais para manter o Cyberjobs atualizado, seguro, funcional e atrativo para os usuários. Elas podem ser divididas em várias categorias:
+
+8.1.1.	 Atualizações de Segurança: 
+Estas atualizações visam corrigir vulnerabilidades descobertas na plataforma. Elas serão priorizadas e lançadas assim que a correção for testada e validada. Um processo de acompanhamento contínuo das ameaças de segurança recentes deve ser estabelecido para garantir que a plataforma permaneça segura.
+
+8.1.2.	 Atualizações Funcionais:
+Essas atualizações incorporarão novos recursos ou alterações nos recursos existentes com base nos feedbacks dos usuários e nas necessidades em evolução do mercado. Elas serão planejadas e lançadas em ciclos de desenvolvimento acordados com a equipe de desenvolvimento.
+
+8.1.3.	 Atualizações de Desempenho:
+Estas atualizações visam melhorar a eficiência do sistema, a velocidade de carregamento da página e a experiência geral do usuário. Elas podem ser lançadas juntamente com as atualizações funcionais ou separadamente, dependendo de sua urgência e impacto.
+
+8.1.4.	 Atualizações Legais e de Conformidade:
+Em resposta às mudanças na legislação ou regulamentação relacionada à operação de plataformas online, privacidade do usuário e proteção de dados, essas atualizações garantem que a plataforma continue cumprindo todos os requisitos legais. 
+
+8.1.5.	 Planejamento e Execução de Atualizações:
+Para minimizar a interrupção do serviço e o impacto para os usuários, as atualizações serão normalmente realizadas em horários de menor tráfego. Os usuários serão notificados sobre as atualizações importantes com antecedência, especialmente se houver necessidade de tempo de inatividade do sistema.
+A equipe de desenvolvimento seguirá as melhores práticas de gerenciamento de versão, garantindo que qualquer atualização possa ser revertida rapidamente em caso de problemas imprevistos.
+
+8.1.6.	 Testes e Validação de Atualizações:
+Antes de serem lançadas, todas as atualizações passarão por um processo rigoroso de teste para garantir que não causem problemas ou interrupções inesperadas. Isso incluirá testes unitários, testes de integração e testes de aceitação do usuário, conforme apropriado.
+A qualidade e a eficácia das atualizações serão monitoradas após o lançamento, e quaisquer problemas detectados serão resolvidos com alta prioridade.
+
+8.2.	Suporte ao Cliente
+O suporte ao cliente é um elemento crítico para o sucesso de qualquer negócio online. Para o Cyberjobs, pretendemos implementar um sistema de suporte ao cliente robusto e eficaz, dividido em várias partes:
+
+8.2.1.	 Centro de Ajuda
+Primeiramente, desenvolveremos um centro de ajuda completo e fácil de navegar, com artigos e tutoriais detalhados que abordam questões comuns. Ele incluirá tópicos como "Como começar", "Como criar um projeto", "Como contratar um freelancer", "Como resolver disputas", etc. Os usuários podem procurar soluções para suas dúvidas antes de entrar em contato com a equipe de suporte.
+
+8.2.2.	 Suporte por E-mail
+Para questões mais complexas que não podem ser resolvidas por meio do centro de ajuda, ofereceremos suporte por e-mail. A equipe de suporte ao cliente responderá aos tickets por e-mail dentro de um prazo pré-definido (por exemplo, 24 horas). Nossa equipe será treinada para lidar com uma variedade de problemas e orientar os usuários da melhor maneira possível.
+
+8.2.3.	 Chat ao Vivo
+Além do e-mail, também teremos uma opção de chat ao vivo para suporte imediato durante o horário comercial. Esta opção permite que os usuários obtenham respostas instantâneas para consultas simples ou urgentes.
+
+8.2.4.	 Fórum da Comunidade
+Um fórum da comunidade será criado para permitir que os usuários interajam e se ajudem. Este espaço também será monitorado pela equipe de suporte para garantir que todas as questões sejam respondidas e que o ambiente seja mantido respeitoso e profissional.
+
+8.2.5.	 Treinamento da Equipe de Suporte
+A equipe de suporte ao cliente será treinada regularmente sobre as funcionalidades do site, políticas de resolução de disputas e melhores práticas de atendimento ao cliente. Esse treinamento ajudará a equipe a fornecer respostas precisas e a lidar com situações de alta pressão de forma profissional e tranquila.
+
+8.2.6.	 Feedback dos Clientes
+Finalmente, incentivaremos o feedback dos clientes sobre a qualidade do suporte recebido. Isso nos ajudará a identificar áreas de melhoria e a garantir a satisfação contínua dos nossos usuários.
+
+9.	Marketing e Crescimento
+9.1.	Estratégias de Marketing
+Primeiramente, é essencial ter em mente que o marketing digital será uma ferramenta crucial para atrair tanto freelancers quanto clientes para a plataforma. Aqui estão algumas estratégias possíveis:
+
+1. Marketing de Conteúdo: Crie um blog anexado ao site com dicas úteis e insights para freelancers e empregadores. Isso pode ajudar a atrair tráfego orgânico para o site e estabelecer o Cyberjobs como uma fonte confiável de informação. 
+
+2. Otimização para Mecanismos de Busca (SEO): Trabalhe na otimização do site para que ele apareça em pesquisas relevantes. Isso inclui palavras-chave direcionadas, criação de conteúdo de alta qualidade e construção de backlinks.
+
+3. Marketing nas Redes Sociais: Use plataformas de mídia social para promover o Cyberjobs. Isso pode incluir a criação de uma comunidade em torno do serviço, promoção de histórias de sucesso e divulgação de novas ofertas ou funcionalidades.
+
+4. E-mail Marketing: Construa uma lista de e-mail e mantenha os usuários envolvidos com atualizações regulares, dicas úteis, histórias de sucesso e muito mais. Oferecer um incentivo para se inscrever, como um e-book gratuito ou um desconto, pode ajudar a aumentar a lista de e-mails.
+
+5. Programa de Indicação: Incentive os usuários a convidar amigos e colegas para a plataforma. Eles podem receber algum tipo de benefício ou recompensa por fazer isso, como descontos ou acesso a recursos premium.
+
+6. Parcerias Estratégicas: Considere a formação de parcerias com empresas ou organizações que podem beneficiar-se da oferta de serviços de freelancers para seus membros ou funcionários.
+
+7. Anúncios Pagos: Use publicidade paga em plataformas como Google AdWords, LinkedIn, Facebook e Instagram para atingir um público mais amplo. Isso deve ser feito com cuidado para garantir um bom retorno sobre o investimento.
+
+8. PR e Mídia: Se o orçamento permitir, considere trabalhar com um profissional de relações públicas para ajudar a espalhar a palavra sobre o Cyberjobs na mídia.
+
+Por fim, lembre-se que todas as estratégias de marketing devem ser monitoradas e ajustadas ao longo do tempo para garantir a eficácia. Os KPIs (Indicadores-Chave de Desempenho) devem ser definidos para cada campanha de marketing, para medir o retorno sobre o investimento e identificar áreas para melhorias.
+
+9.2.	Plano de Crescimento
+
+9.2.1.	 Estágios iniciais
+Nos estágios iniciais do projeto, focaremos em estabelecer uma base sólida de usuários e freelancers. Isso será alcançado por meio de:
+
+1. Programa de Indicação de Amigos: Para incentivar usuários a indicar nossos serviços para amigos e familiares. Cada usuário que fizer uma indicação bem-sucedida receberá um bônus, por exemplo, descontos em suas próximas transações no site.
+
+2. Parcerias com Escolas/Instituições: Estabelecer parcerias com escolas de tecnologia, design, negócios e outras instituições relacionadas para alcançar estudantes e profissionais que possam estar interessados em nossos serviços.
+
+9.2.2.	 Expansão e Crescimento
+Após estabelecermos uma base sólida de usuários, passaremos para a fase de expansão. Para isso, implementaremos:
+
+1. SEO e Marketing de Conteúdo: Para aumentar a visibilidade e o reconhecimento da marca. Criaremos conteúdos de qualidade que atraiam usuários para o nosso site.
+
+2. Publicidade Paga: Implementaremos publicidade paga em plataformas populares como Google, Facebook, LinkedIn etc.
+
+3. Expansão para Novos Mercados: Além de expandir geograficamente para novos mercados, consideraremos a adição de novas categorias de trabalho que podem ser interessantes para nossa base de usuários.
+
+9.2.3.	 Sustentabilidade e Melhoria Contínua
+Nesta fase, nosso objetivo será manter o crescimento e melhorar nossos serviços. Algumas estratégias incluem:
+
+1. Análise de Dados e Feedback dos Usuários: Usaremos os dados coletados e o feedback dos usuários para melhorar continuamente nosso serviço.
+
+2. Programas de Fidelidade: Para reter nossos usuários mais valiosos, implementaremos programas de fidelidade que oferecem vantagens exclusivas.
+
+3. Inovação Constante: Continuaremos a inovar em nossa plataforma, adicionando novos recursos e melhorando a experiência do usuário.
+
+10.	Conclusão
+10.1.	Resumo do Projeto
+O projeto "Cyberjobs" é uma plataforma digital que visa conectar freelancers com clientes que necessitam de diferentes tipos de serviços. A plataforma será um espaço em que profissionais de diversas áreas podem se inscrever e oferecer seus serviços, enquanto clientes podem publicar seus projetos, requerimentos de trabalho e selecionar o freelancer mais adequado às suas necessidades.
+
+A plataforma será construída com uma interface intuitiva e amigável, facilitando o uso para profissionais e clientes de diferentes níveis de habilidade tecnológica. Além disso, um sistema robusto de resolução de disputas será implementado para garantir uma transação justa e satisfatória para ambas as partes envolvidas.
+
+As funcionalidades principais do Cyberjobs incluem a criação e publicação de trabalhos, a submissão de propostas por freelancers, o processo de negociação, a execução do trabalho e a realização de pagamentos seguros. Além disso, contará com medidas rigorosas de segurança e privacidade para proteger os dados dos usuários.
+
+Os recursos de suporte e manutenção estarão disponíveis para garantir a eficácia contínua da plataforma e para resolver quaisquer problemas que possam surgir durante o uso da plataforma.
+
+O projeto Cyberjobs tem como objetivo não só oferecer uma plataforma eficiente e segura para freelancers e clientes, mas também estimular o crescimento e a profissionalização do mercado freelance. A plataforma também estará equipada com ferramentas e recursos que promovam a aprendizagem e o desenvolvimento de habilidades dos freelancers.
+
+Em termos de marketing e crescimento, haverá uma estratégia robusta para atrair tanto freelancers quanto clientes, incluindo estratégias de marketing digital, parcerias e promoções. O plano de crescimento estará focado em aumentar o número de usuários na plataforma, ampliar o alcance geográfico do serviço e, em longo prazo, tornar o Cyberjobs uma referência no mercado de trabalho freelance. 
+
+Esse é o resumo geral do projeto. As seções subsequentes deste documento fornecerão detalhes mais específicos sobre cada aspecto do projeto.
+
+10.2.	Próximos Passos
+Depois de concluída a fase de planejamento, o projeto do site Cyberjobs entrará na fase de execução. Aqui estão alguns dos próximos passos:
+
+1. Seleção da Equipe de Desenvolvimento: Escolheremos uma equipe de desenvolvimento de software eficiente que tenha experiência em projetos semelhantes. Também precisaremos de designers gráficos, especialistas em UX/UI e testadores de software.
+
+2. Desenvolvimento do Protótipo: O protótipo do site será desenvolvido com base nos requisitos definidos no projeto. Esta etapa irá ajudar-nos a visualizar o produto final e fazer os ajustes necessários.
+
+3. Desenvolvimento do Site: Depois de revisar e aprovar o protótipo, a equipe começará a desenvolver o site. Esta é a etapa mais demorada do projeto.
+
+4. Teste: O site será testado em diferentes cenários para garantir que está funcionando corretamente. Iremos realizar testes unitários, testes de integração, testes de carga, testes de segurança, entre outros.
+
+5. Lançamento Beta: O site será lançado inicialmente para um público seleto para receber feedbacks. Com isso, faremos as modificações finais antes do lançamento oficial.
+
+6. Lançamento Oficial: Após as modificações finais, faremos o lançamento oficial do site. Durante esse período, vamos monitorar o desempenho do site e solucionar quaisquer problemas que possam surgir.
+
+7. Marketing e Promoção: Implementaremos a estratégia de marketing que foi definida no projeto, a fim de atrair usuários para o site.
+
+8. Manutenção e Atualizações: Mesmo após o lançamento, continuaremos a melhorar e atualizar o site de acordo com os feedbacks dos usuários.
+
+9. Avaliação e Ajustes do Plano de Crescimento: Vamos avaliar o sucesso do site em relação aos nossos objetivos iniciais e fazer os ajustes necessários no plano de crescimento.
+
+10. Expansão: Dependendo do sucesso do site, podemos considerar expandir para outras áreas ou mercados. 
+
+Espero que isso ajude a esclarecer os próximos passos para o projeto do site Cyberjobs. Se você tiver mais perguntas ou precisar de detalhamento em algum outro tópico, fique à vontade para perguntar.
+
